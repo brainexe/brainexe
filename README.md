@@ -1,4 +1,4 @@
-### Hi there, I'm **brainexe/brainexe**  👋
+### Hi there, I'm **brainexe**  👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brainexe&show_icons=true&include_all_commits=true&count_private=true" alt="brainexe's github stats" />
